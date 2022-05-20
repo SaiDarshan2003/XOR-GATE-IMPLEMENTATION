@@ -48,7 +48,7 @@ print(model.predict(training_data).round())
 ```
 
 ## Output:
-![XOR GATE](3png)
+![XOR GATE](3.png)
 
 
 ## Result:
